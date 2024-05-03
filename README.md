@@ -1,1 +1,1 @@
-# Chilli-leaf-disease-prediction-using-deep-learning
+# Chilli leaf disease prediction using deep learning
